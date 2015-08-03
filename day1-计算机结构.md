@@ -2,9 +2,9 @@
 
 ****
 
-1. 计算机机构
-2. 冯罗伊曼体系结构
-3. 什么是POST？
+1. [计算机结构](http://www.cnblogs.com/kzloser/articles/2559004.html)
+2. [冯罗伊曼体系结构](http://www.weboch.com.cn/ARM/neumann-harvard.asp)
+3. 什么是POST（[加电自检](http://blog.sina.com.cn/s/blog_61746be701017x3g.html)）？
 4. 内存的结构？
 5. CPU的结构
 6. 总线？
