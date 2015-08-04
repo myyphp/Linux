@@ -101,6 +101,45 @@
 
 +OS/2
 
+#[Linux哲学](http://blog.chinaunix.net/uid-20614040-id-1915591.html)
+
++ less is more
+
++ dont do it yourself
+
++ 一切皆文件
+
++ 配置文件为纯文本格式
+
++ 推荐书籍《UNIX编程环境》
+
+ 
+#[密码设置要点](http://www.2cto.com/os/201401/273750.html)
++ [复杂度](http://www.guokr.com/article/438716/)（字母、数字、特殊符号）
+
++ 长度（最少八位以上）
+
++ 定期更换（两个月更换一次）
+
++ 随机字符串（无规律）
+
+#Linux命令学习
+
++ shell 就是人机交互的接口，起到一个中介的作用，分为GUI、CLI
+	+ GUI 分为 Gnome、 KDE、 Xwindow
+	+ CLI 分为 bash、csh、ksh
++ 命令提示符在bash分为超级管理员(#)和普通用户($)
+
++ shell 接受用户输入的命令，传递给内核，内核做出判断后，然后给出提示
+
++ 命令格式
+	
+	>> \> 命令  选项  参数（ls -la /etc）
+
+	>> 选项：用来修饰命令，可以分为短选项和长选项。短选项可以组合使用 (-la)
+	
+	>>参数：命令作用的对象(/etc)
+
 ****
 ##附件
 1. [AIX](http://servers.pconline.com.cn/news/1106/2430487.html)历史
